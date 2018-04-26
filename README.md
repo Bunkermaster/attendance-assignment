@@ -1,5 +1,5 @@
 # Gestion de l'appel
-V0.1 20180323
+V0.2 20180323
 
 # Introduction
 
@@ -13,6 +13,7 @@ V0.1 20180323
 ## Back Symfony
 
 * Gestion des utilisateurs
+    * utilisateurs de test (username, password) ```tinkywinky, qwerty``` et ```lala, password```
 * Gestion des tokens
 * Génération des QR codes
 * Rapport (statistiques sur les retards, absences sur les 30 derniers jours flottants)
