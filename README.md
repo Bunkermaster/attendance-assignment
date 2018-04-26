@@ -18,7 +18,11 @@ V0.1 20180323
 * Rapport (statistiques sur les retards, absences sur les 30 derniers jours flottants)
 
 # Entités
-
+Note : Tous les users sont dans tous les événements. Pas de back-office.
+* Event (codé en dur dans la database)
+    * Name string 40
+    * Location 64 bits (FK)
+    * Date Datetime
 * User
     * Token string 40
     * Name string 50
