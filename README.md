@@ -1,5 +1,9 @@
 # Gestion de l'appel
-V0.2 20180323
+V0.3 20180323
+
+# Change log
+## v0.3
+* Modification des users par défaut pour emails au lieu de user names
 
 # Introduction
 
@@ -13,7 +17,7 @@ V0.2 20180323
 ## Back Symfony
 
 * Gestion des utilisateurs
-    * utilisateurs de test (username, password) ```tinkywinky, qwerty``` et ```lala, password```
+    * utilisateurs de test (username, password) ```tinkywinky@teletubbies.co.uk, qwerty``` et ```lala@teletubbies.co.uk, password```
 * Gestion des tokens
 * Génération des QR codes
 * Rapport (statistiques sur les retards, absences sur les 30 derniers jours flottants)
